@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Iqbal-Baloch
+- 👋 Hi, I’m @Iqbal
 - 👀 I’m interested in AI, Data Science and Blockchain
 - 🌱 I’m currently learning Block-chain
 - 💞️ I’m looking to collaborate on ...
