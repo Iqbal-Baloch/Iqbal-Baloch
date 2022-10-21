@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Iqbal
-- 👀 I’m interested in AI, Data Science and Blockchain
-- 🌱 I’m currently learning Block-chain
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Mobile Apllicaiton development, 
+      AI, ML, Blockchain and Web development
+- 🌱 I’m currently learning Block-chain, Mobile Application development
+- 💞️ I’m looking to collaborate on web and Web3 projects
 - 📫 How to reach me ...
 
 <!---
